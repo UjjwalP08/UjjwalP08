@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack<br>👯 I’m looking to collaborate on Open Source Program<br><br>
+🌱 I’m currently learning MERN Stack<br>👯 I’m looking to collaborate on Open Source Programes<br><br>
 
 
 ## 🌐 Socials:
