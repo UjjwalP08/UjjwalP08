@@ -1,8 +1,8 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack<br>👯 I’m looking to collaborate on Open Source Programes<br><br>
+💼 I’m currently working at TST Technology<br><br>🌱 I’m currently learning MERN Stack<br><br>👯 I’m looking to collaborate on Open Source Program<br><br>📩 Reach me at ujjwalp476@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 Connect on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ujjwal-patel-173092188/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ujjwalP0807) 
 
 # 💻 Tech Stack:
@@ -11,11 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=UjjwalP08&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UjjwalP08&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalP08&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UjjwalP08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=UjjwalP08&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
